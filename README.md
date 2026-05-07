@@ -78,6 +78,7 @@ Tratamento de dados com Python
 Desenvolvimento de KPIs
 Visualização de dados
 Criação de dashboards no Power BI
-Autor
+
+Autor:
 
 João Gabriel Amaral
